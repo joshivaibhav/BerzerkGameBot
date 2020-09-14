@@ -19,6 +19,6 @@ The posts are fetched using Reddit's PRAW API.
   * LSTM (Long Short-Term Memory)
 
 # Report and Analysis
-  * We compare accuracies and generate ROC Curves and Error curves for a deeper analysis
+  * We compare accuracies and generate ROC Curves and Learning curves for a deeper analysis
   * Feel free to dive into the Report pdf for more details.
   
