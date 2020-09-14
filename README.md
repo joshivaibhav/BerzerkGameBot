@@ -1,6 +1,6 @@
 # Exploring Discourse in Reddit
 
-Our goal here is to build a machine learning agent that can predict which subreddit an unlabeled post comes from. We aim to acheive this via implementing various machine learning algorithms as well as deep learning techniques. We then compare and contrast the various algorithms and deduce which is the best for the job.
+Our goal here is to build a machine learning agent that can predict which subreddit an unlabeled post comes from. We aim to acheive this via implementing various machine learning algorithms and techniques such as Classification (Binary and Multiclass) and Deep Learning.  We then compare and contrast the various algorithms and deduce which is the best for the job. We document our findings in our final report.
 
 
 # Data
