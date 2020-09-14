@@ -5,13 +5,13 @@ The posts are fetched using PRAW. Random posts are taken from two subreddits and
 
 # Classifiers :
 
-  Naive Bayes
-  SVM
-  Random Forest
-  Logistic
+  * Naive Bayes
+  * SVM
+  * Random Forest
+  * Logistic
 # Neural Networks :
-  LSTM (Long Short-Term Memory)
+  * LSTM (Long Short-Term Memory)
 
 # Report and Analysis
-  Feel free to dive into the Report pdf for the detailed and comprehensive analysis
+  * Feel free to dive into the Report pdf for the detailed and comprehensive analysis
   
