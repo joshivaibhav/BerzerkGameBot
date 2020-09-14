@@ -9,15 +9,16 @@ for each target class.
 ####
 The posts are fetched using Reddit's PRAW API.
 
-# Classifiers :
+# Classifiers
 
   * Naive Bayes
   * SVM
   * Random Forest
   * Logistic
-# Neural Networks :
+# Neural Networks
   * LSTM (Long Short-Term Memory)
 
 # Report and Analysis
-  * Feel free to dive into the Report pdf for the detailed and comprehensive analysis
+  * We compare accuracies and generate ROC Curves and Error curves for a deeper analysis
+  * Feel free to dive into the Report pdf for more details.
   
